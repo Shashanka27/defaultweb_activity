@@ -1,3 +1,14 @@
+Commit#001 Squash local commit1
+
+Commit#003 Squash local commit3
+
+Commit#004 Squash local commit4
+
+Commit#002 Squash local commit2
+
+
+
+
 
 Commit#7 Again Squash
 
