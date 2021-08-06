@@ -1,4 +1,3 @@
-Commit #12 Rebase Conflect Activity from Dev2
 
 Commit#7 Again Squash
 
